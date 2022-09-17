@@ -4,3 +4,4 @@ HW_2 represents Question 1. It represents the function to determine whether or n
 
 Points is also part of Question 1. It plots the estimated number of pi and the error (which is the absolute value of the estimated number minus the actual value of pi) in relation to the total number of points from the function 2^k, where k = 10, 11, ..., 20.
 
+untitled4 represents Question 3. It is a movie that plots all the random uniformly distributed points. If the point is in the cirle, the dot is green. If it is not in the circle and in the square, the dot is red.
